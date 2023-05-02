@@ -25,6 +25,9 @@ module.exports = {
       },
       fontSize:{
         common:'15px'
+      },
+      fontFamily:{
+        dmsans:['DM Sans','sans-serif']
       }
     },
   },
